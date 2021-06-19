@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
@@ -25,7 +26,7 @@ printf("%i is negative\n", n);
 }
 else
 {
-printf("%i is zero"),n;
+printf("%i is zero"), n;
 }
 return (0);
 }
