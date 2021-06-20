@@ -23,6 +23,6 @@ else
 
 l++;
 }
-puthcar('\n')
+putchar('\n')
 return (0); 
 }
