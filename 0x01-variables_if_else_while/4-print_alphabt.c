@@ -23,6 +23,6 @@ else
 
 l++;
 }
-putchar('\n')
+ putchar('\n');
 return (0); 
 }
