@@ -7,12 +7,12 @@
  * Return: Always 0 (Success)
  */
 
-int main (void)
+int main(void)
 {
 int i = 48;
 char c = 'a';
 
-while (i < 58 )
+while (i < 58)
 {
 putchar(i);
 i++;
