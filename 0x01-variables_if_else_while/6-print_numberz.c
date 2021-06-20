@@ -2,7 +2,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main * Entry point
+ * main - Entry point
  *
  * Description: use putchar to print ints
  *
