@@ -4,6 +4,8 @@
 /**
  * main * Entry point
  *
+ * Description: use putchar to print ints
+ *
  * Return: Always 0 (Success)
  */
 
