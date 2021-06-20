@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
  */
 
-int main (void)
+int main(void)
 {
 char l = 'a';
 char f = 'z';
@@ -18,6 +18,6 @@ while (l <= f)
 putchar(l);
 l++;
 }
-
- return (0);
+putchar('\n');
+return (0);
 }
